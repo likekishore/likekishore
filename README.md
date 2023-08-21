@@ -1,4 +1,4 @@
-# Hey there, this is Kishore!...i'm tech Enthusiast currently exploring flavours of Technology 👋
+# Hey there, this is Kishore! 👋
 
 🎯 Competitive Programmer | 🧮 Mathematics Enthusiast | 💻 Front-End Developer
 
