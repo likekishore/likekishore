@@ -1,4 +1,4 @@
-# Hey, I'm Kishore! currently pursuing Electrical and Computer Engineering 👋
+# Hey there, this is Kishore!...i'm tech Enthusiast currently exploring flavours of Technology 👋
 
 🎯 Competitive Programmer | 🧮 Mathematics Enthusiast | 💻 Front-End Developer
 
