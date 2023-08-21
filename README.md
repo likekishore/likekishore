@@ -10,7 +10,7 @@
 - 🖥️ Front-End Development: Crafting web experiences with HTML, CSS, and JavaScript, including React projects.
 - 🐍 Python Enthusiast: Exploring Django framework for web development.
 - 🔐 Cryptography Algorithms: Unraveling the secrets of encryption and security.
-- 🐧 Linux Lover: Embracing the power of open-source with Linux.
+- 🐧 Linux : Embracing the power of open-source with Linux.
 - 🗄️ Diving into Databases: Understanding the world of databases to build robust applications.
 
 ## Connect with Me
