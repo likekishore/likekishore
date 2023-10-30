@@ -1,6 +1,6 @@
 # Hey there, this is Kishore! 👋
 
-🎯 Competitive Programmer | 🧮 Mathematics Enthusiast | 💻 Front-End Developer
+🎯 Competitive Programmer | 🧮 Mathematics Enthusiast | 💻 Full Stack Developer
 
 🌟 Welcome to my GitHub profile! I'm passionate about a wide range of topics in the tech world, and you'll find a mix of projects and repositories related to my interests.
 
@@ -8,10 +8,9 @@
 
 - 💡 Competitive Programming: Solving algorithmic challenges to sharpen my problem-solving skills.
 - 🖥️ Front-End Development: Crafting web experiences with HTML, CSS, and JavaScript, including React projects.
-- 🐍 Python Enthusiast: Exploring Django framework for web development.
-- 🔐 Cryptography Algorithms: Unraveling the secrets of encryption and security.
+- 🐍 Backend Development: Exploring Node.js framework for web development.
 - 🐧 Linux : Embracing the power of open-source with Linux.
-- 🗄️ Diving into Databases: Understanding the world of databases to build robust applications.
+- 🗄️ Diving into Databases: Understanding the world of databases through postgreSQL and MangoDB.
 
 ## Connect with Me
 
