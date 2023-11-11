@@ -23,7 +23,7 @@
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,gcp,nginx)](https://skillicons.dev)
 
 ### I Work in
 
