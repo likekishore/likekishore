@@ -4,29 +4,14 @@
 
 #### Currently exploring
 
-1. Software development
-2. Mathematics & Algorithms
-3. Computer Networks 
+1. Mathematics & Algorithms
+2. Backend development
+3. Linux & Computer Networks
 
-### I Speak in
+### I majorly work use
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,go,latex)](https://skillicons.dev)
-
-
-### I Develop in
-<hr>
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,fastapi,mongodb,postgresql&perline=4)](https://skillicons.dev)
-
-### I Operate and deploy in 
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,go,figma,git,linux,bash,docker,vscode)](https://skillicons.dev)
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,gcp,nginx)](https://skillicons.dev)
-
-### I Work in
-
-<hr>
-
-[![My Skills](https://skillicons.dev/icons?i=linux,vscode,github,sublime)](https://skillicons.dev)
