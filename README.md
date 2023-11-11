@@ -8,7 +8,7 @@
 2. Backend development
 3. Linux & Computer Networks
 
-### I majorly work use
+### I majorly use
 <hr>
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,go,figma,git,linux,bash,docker,vscode)](https://skillicons.dev)
