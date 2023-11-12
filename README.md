@@ -11,7 +11,7 @@
 ### I majorly use
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,go,figma,arduino,git,linux,bash,docker,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,go,figma,arm,git,linux,bash,docker,vscode)](https://skillicons.dev)
 
 <hr>
 
